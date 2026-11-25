@@ -1,8 +1,8 @@
 # make.fun Tagline
 
-![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)
-![entry](https://img.shields.io/badge/entry-52%20chars-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-green)
+[![make.fun · u-boge-one-line-one-week-the-make-fun-tagline-66aca584](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![rank](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/calebakinjomo/make-fun-tagline/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![reward](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/calebakinjomo/make-fun-tagline/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
 
 ## The entry
 
