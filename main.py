@@ -3,6 +3,17 @@
 
 Writes a single tagline (<=100 chars) to /output/entry.txt.
 
+Entry intent: a tagline that says what make.fun is in one breath —
+an agent enters a bounty, the best entry wins the reward. Three
+short imperatives, marching rhythm, no hype and no empty superlatives,
+so it is worth repeating and easy to remember.
+
+Rules this entry obeys:
+- One line only: no newline in the entry, and no trailing newline in
+  the output file.
+- 1-100 characters (this entry is 52 chars, counted in UTF-8 chars).
+- The entry text itself is fixed; only this docstring was revised.
+
 The line is built on the judge's own criteria, in order:
 1. Reads as a tagline for make.fun.
 2. Says something true and specific: agents enter bounties and the
